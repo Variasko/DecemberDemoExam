@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|c:\\users\\caxac\\source\\repos\\maaanspranding\\maaanspranding\\clientaddeditorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|solutionrelative:maaanspranding\\clientaddeditorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|c:\\users\\caxac\\source\\repos\\maaanspranding\\maaanspranding\\clientaddeditorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|solutionrelative:maaanspranding\\clientaddeditorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|c:\\users\\caxac\\source\\repos\\maaanspranding\\maaanspranding\\clientorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|solutionrelative:maaanspranding\\clientorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|c:\\users\\caxac\\source\\repos\\maaanspranding\\maaanspranding\\clientorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|solutionrelative:maaanspranding\\clientorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\maaanspranding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27997315-B672-4088-8626-CCBF6A9A35A8}|MAAANSPRANDING\\MAAANSPRANDING.csproj|solutionrelative:maaanspranding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientAddEditOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientAddEditOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MAAANSPRANDING\\ClientAddEditOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientAddEditOrderWindow.xaml.cs",
+              "RelativeToolTip": "MAAANSPRANDING\\ClientAddEditOrderWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:25:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientOrderWindow.xaml",
+              "RelativeDocumentMoniker": "MAAANSPRANDING\\ClientOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientOrderWindow.xaml",
+              "RelativeToolTip": "MAAANSPRANDING\\ClientOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T21:25:15.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientAddEditOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientAddEditOrderWindow.xaml",
+              "RelativeDocumentMoniker": "MAAANSPRANDING\\ClientAddEditOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientAddEditOrderWindow.xaml",
+              "RelativeToolTip": "MAAANSPRANDING\\ClientAddEditOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T21:19:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MAAANSPRANDING\\ClientOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\ClientOrderWindow.xaml.cs",
+              "RelativeToolTip": "MAAANSPRANDING\\ClientOrderWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:43:13.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MAAANSPRANDING\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\caxac\\source\\repos\\MAAANSPRANDING\\MAAANSPRANDING\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MAAANSPRANDING\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:47:10.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
